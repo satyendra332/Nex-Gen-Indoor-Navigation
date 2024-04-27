@@ -1,0 +1,4 @@
+networkx
+Pillow
+flask
+flask_cors
